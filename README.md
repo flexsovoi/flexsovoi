@@ -1,7 +1,7 @@
 Hi 👋 My name is Danil
 ======================
 
-Frontend Developer
+Fullstack Developer
 ------------------
 
 * 🌍  I'm based in Saint-Petersburg
