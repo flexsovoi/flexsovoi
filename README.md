@@ -6,8 +6,7 @@ Fullstack Developer
 
 * 🌍  I'm based in Saint-Petersburg
 * ✉️  You can contact me at [developdbdevelop@gmail.com](mailto:developdbdevelop@gmail.com)
-* 🧠  I'm learning React
-* ⚡  tg: https://t.me/wry_pinky
+* ⚡  tg: https://t.me/DB_Develop
 
 ### Skills
 
